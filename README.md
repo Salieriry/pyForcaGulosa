@@ -1,0 +1,1 @@
+# Sistema de jogo de forca utilizando o algoritmo da Busca Gulosa em Python

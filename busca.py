@@ -1,4 +1,4 @@
-from collections import Counter
+from collections import Counter # counter para contar frequências de letras
 
 
 def filtrar_palavras(candidatas, padrao):
